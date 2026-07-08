@@ -1,3 +1,7 @@
+# Abandoned
+
+This project has been abandoned.
+
 # **SS12000 Java Client Library**
 
 This is a Node.js client package (or library if you will) that aims to simplify the integration with a server running a SS12000 compatible API. It is based on the OpenAPI 3 specification basically and it is really not that complicated to be honest. The package handles HTTP  calls and Bearer Token authentication, and is designed to provide a structured method for integrating with all of the defined endpoints of the standard. 
